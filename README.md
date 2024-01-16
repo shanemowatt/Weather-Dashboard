@@ -10,4 +10,8 @@ This is a simple weather dashboard app that allows users to search for the weath
 
 - **Search for a City:** Users can enter a city name to get the weather forecast.
 - **View Today's Forecast:** Display the current weather details for the selected city.
-- **5-Day Forecast:** View a 5-day weather forecast for the selected city.
+- **5 Day Forecast:** View a 5 day weather forecast for the selected city.
+
+## Link to project
+
+https://shanemowatt.github.io/Weather-Dashboard/
